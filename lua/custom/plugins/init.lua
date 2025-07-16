@@ -6,6 +6,4 @@ return {
 
   "nvim-lua/plenary.nvim",
 
-  {'scalameta/nvim-metals', requires = { "nvim-lua/plenary.nvim" }},
-
 }
